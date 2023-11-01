@@ -10,7 +10,7 @@ This was a project done for HiCouncillor as a team of 4 members.
 
 Understanding employee performance is essential for HR teams to make informed decisions and develop effective strategies. This project combines SQL and Python for a comprehensive analysis. Here's what we've done:
 
-[![Python Link]([https://img.shields.io/badge/Python-3.7%2B-brightgreen)](https://www.python.org/](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb))
+[![Python Link](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb))
 
 1. **Python Data Preprocessing**: Following the SQL analysis, we used Python for data preprocessing and cleaning:
 
@@ -28,7 +28,7 @@ The data cleaning process helped us address inconsistencies and prepare the data
 ##
 3. **SQL Data Analysis**: We performed data analysis using SQL, making the following key insights:
 
-   [![SQL link]([https://img.shields.io/badge/SQL-MySQL-blue)](https://www.mysql.com/](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql))
+   [![SQL link](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql))
 
    - Calculated the average age of employees in each department and gender group.
    - Listed the top three departments with the highest average training scores.
