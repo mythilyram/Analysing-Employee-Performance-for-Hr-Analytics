@@ -45,4 +45,29 @@ The data cleaning process helped us address inconsistencies and prepare the data
    - For each department and recruitment channel, found the total number of employees who have met more than 80% of their KPIs, have a previous_year_rating of 5, and have a length of service greater than 10 years.
    - Calculated the percentage of employees in each department who have received awards, have a previous_year_rating of 4 or 5, and an average training score above 70, grouped by department and gender.
    - Listed the top five recruitment channels with the highest average length of service for employees who have met more than 80% of their KPIs, have a previous_year_rating of 5, and an age between 25 and 45 years, grouped by department and recruitment channel.
+  
+4. ## Technologies Used
+
+- Python-Pandas
+- SQL (MySQL)
+- Google Colab
+
+## Repository Structure
+
+- **[uncleaned_employees_final_dataset.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Uncleaned_employees_final_dataset.csv)**: The original dataset used for both SQL and Python analysis.
+- **[employees_cleaned.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/employees_cleaned.csv)**: The cleaned dataset.
+- **[employee_performance_analysis_python](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb)**: The Python data cleaning and preprocessing notebook.
+- - **[employee_performance_analysis_sql](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql)**: The SQL analysis notebook.
+
+## How to Use
+
+1. Access the Python data cleaning and preprocessing code in the "[employee_performance_analysis_python](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb)" notebook.
+
+2. Explore the SQL analysis code in the "[employee_performance_analysis_sql](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql)" notebook.
+
+3. Use the cleaned dataset in the "[employees_cleaned.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/employees_cleaned.csv)" file for more advanced HR analytics.
+
+- The original dataset provided the foundation for both SQL and Python analysis. It can be found in "[uncleaned_employees_final_dataset.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Uncleaned_employees_final_dataset.csv)."
+
+This project delivers a comprehensive HR analytics solution by combining SQL and Python for analysis and data preprocessing.
 
