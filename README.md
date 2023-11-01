@@ -57,7 +57,7 @@ The data cleaning process helped us address inconsistencies and prepare the data
 - **[uncleaned_employees_final_dataset.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Uncleaned_employees_final_dataset.csv)**: The original dataset used for both SQL and Python analysis.
 - **[employees_cleaned.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/employees_cleaned.csv)**: The cleaned dataset.
 - **[employee_performance_analysis_python](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee_Performance_for_Hr_Analytics.ipynb)**: The Python data cleaning and preprocessing notebook.
-- - **[employee_performance_analysis_sql](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql)**: The SQL analysis notebook.
+- **[employee_performance_analysis_sql](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Employee%20analysis%20HR%20HiC%20Proj.sql)**: The SQL analysis notebook.
 
 ## How to Use
 
@@ -69,5 +69,5 @@ The data cleaning process helped us address inconsistencies and prepare the data
 
 - The original dataset provided the foundation for both SQL and Python analysis. It can be found in "[uncleaned_employees_final_dataset.csv](https://github.com/mythilyram/Analysing-Employee-Performance-for-Hr-Analytics/blob/main/Uncleaned_employees_final_dataset.csv)."
 
-This project delivers a comprehensive HR analytics solution by combining SQL and Python for analysis and data preprocessing.
+This project delivers a comprehensive HR analytics solution by combining Python for data preprocessing and SQL for analysis.
 
